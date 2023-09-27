@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U+6LaAACdgh6hVGZPg2aFUb5VgxlQ5YtFMw5wGNoQ4tfyeipwwOhdDeUU4rzwIz7WHMqqUBUg67wuIAfI62DcA==",
+  "dgSpecHash": "E58u1uL9cRWkoWHeTWWWr3pS7rngV9+0UJ9H5Jbi5qAaEfl+UCHSpOv/wIJM0OpxonpD8P7brvXlITiWLhreEw==",
   "success": true,
-  "projectFilePath": "d:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\developer\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

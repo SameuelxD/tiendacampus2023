@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "d:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
     "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "d:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "d:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\NetCore\\tiendacampus2023\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-        "outputPath": "d:\\NetCore\\tiendacampus2023\\Infrastructure\\obj\\",
+        "outputPath": "D:\\NetCore\\tiendacampus2023\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
