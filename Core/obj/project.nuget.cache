@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ArW+RFim+50+aDnn87mVgql0xEjba+wDIMBCGt53B/r119X/QT4l0NOrm+Qiiyn5TJdU+jJP/oC/gZr/g29Lw==",
+  "dgSpecHash": "XCfNsYGCfWt4ud+Lf941QITU4Bm3B46nKKT0eo/ne8KYapRwVR1Xte5wYQtAOpqUHq2Z+YH0JGXDJ0UT/TaYTg==",
   "success": true,
-  "projectFilePath": "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
+  "projectFilePath": "D:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

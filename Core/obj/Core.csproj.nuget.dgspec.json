@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj": {}
+    "D:\\NetCore\\tiendacampus2023\\Core\\Core.csproj": {}
   },
   "projects": {
-    "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj": {
+    "D:\\NetCore\\tiendacampus2023\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
+        "projectPath": "D:\\NetCore\\tiendacampus2023\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\developer\\.nuget\\packages\\",
-        "outputPath": "d:\\NetCore\\tiendacampus2023\\Core\\obj\\",
+        "outputPath": "D:\\NetCore\\tiendacampus2023\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
