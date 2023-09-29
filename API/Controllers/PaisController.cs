@@ -58,8 +58,15 @@ public class PaisController : BaseController
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public async Task<ActionResult<Pais>> Put(int id, [FromBody] Pais pais)
     {
-        if(pais == null)
+        if(pais.Id==0){
+            pais.Id=id;
+        }
+        if(pais.Id!=id){
+            return BadRequest();
+        }
+        if(pais == null){
             return NotFound();
+        }
         //var paises = _mapper.Map<Pais>(paisDto);
         _unitOfWork.Paises.Update(pais);
         await _unitOfWork.SaveAsync();
